@@ -62,6 +62,7 @@
 - [Venkata Poduri] (https://github.com/VenkataP29)
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
+- [Hridya]
 - [Brandon White]
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Otávio Cipriano](https://github.com/Otavio-Cipriano)
